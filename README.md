@@ -19,8 +19,6 @@ Watch the video [here]( https://sheridanc-my.sharepoint.com/:v:/g/personal/bajaj
 
 ---
 
----
-
 ## Prototype Images: 
 For this refer to repository 'Prototype Screenshot' folder.
 
