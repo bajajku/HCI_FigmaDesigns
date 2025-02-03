@@ -1,76 +1,122 @@
-# COVID Helper
+# Sheridan Courses App - Need Finding and Competitive Analysis
 
-Documentation and prototype for COVID Helper. The first COVID application focuses
-on connecting generations safely. Learn about how to protect yourself and get
-help from the community around you.
+## Table of Contents
+- [Demo](#demo)
+- [End Users](#end-users)
+- [Audience Considerations](#audience-considerations)
+- [Similar Successful Apps](#similar-successful-apps)
+- [Latent Needs](#latent-needs)
+- [Finding Latent Needs](#finding-latent-needs)
+- [UI Requirements](#ui-requirements)
+- [Competitive Analysis Matrix](#competitive-analysis-matrix)
+- [Competitor UX/HCI Issues](#competitor-uxhci-issues)
+- [New Desirable Functionalities](#new-desirable-functionalities)
 
-## Application Versions
+---
 
-1. [Version 1](https://www.figma.com/file/u2Jh1NDs3MTxBPxBwSdhin/HelpQuester-1?node-id=0%3A1)
-2. [Version 2](https://www.figma.com/file/kxxj9MPMZY5q2lOYhf8dct/CovidHelper)
-3. [Version 2 + Navigation](https://www.figma.com/file/NdAmVcBYr3bmu88qVqwCe9/CovidHelper-Testing)
+## Demo
+Watch the video [here]( https://sheridanc-my.sharepoint.com/:v:/g/personal/bajajkun_shernet_sheridancollege_ca/EeqhjA-2OjVGkR4k73hcEmABiidmHJqfhp-6umGl8SmsNg?e=Qs5O6S)
 
-## :thinking: About
+---
 
-For users that are feeling a bit alone because of COVID-19 or just want to help
-communities out by showing that people can still be people, COVID Helper is here
-to help. Login and signup and find out about users that need your help today. Find
-out ways you can create real change in your community. Just because COVID-19
-is making this year worse doesn't mean you shouldn't try making it a little better
-for **your** community.
+---
 
-## :fire: Features
+## Prototype Images: 
+For this refer to repository 'Prototype Screenshot' folder.
 
-- Login
-- Register
-- COVID-19 statistics for your community
-- COVID-19 symptom checklist
-- COVID-19 Hospitals and Test centers near you!
-- Request Help from your community
-- Offer to Help your community
-- Find postings where you can help
-- Message people who need help
-- Create appointments so you can track appointments you made with people on the platform
-- Alerts if someone you helped ended up getting COVID-19
-- Clean and modern user interface!
+## End Users
+The end users of the Sheridan Courses App prototype include:
+- **College Students (18-30)**: Majority user base
+- **Continuing Education Learners (45+ years old)**: Smaller portion of the user base but important
+- **College Professors**: Diverse age group
 
-## Initial Prototype
+---
 
-![Init](./initial-prototype.png)
+## Audience Considerations
+- **College Students (18-30)**
+  - Quick navigation features
+  - Interactive and visually appealing design
 
-## :woman_artist: Prototype
+- **Continuing Education Learners (45+ years old)**
+  - User-friendly design for simple navigation
+  - Larger text and clean fonts
+  - Simple and straightforward UI
 
-![Design Mockup](./prototype.png)
+- **College Professors**
+  - Intuitive layouts and minimal UI/UX complexity
 
-## :books: Navigation Prototype
+---
 
-![Navigation Mockup](./navigation.png)
+## Similar Successful Apps
+1. **Pulse**
+   - **Likes:** Clean and simple UI, easy navigation  
+   - **Dislikes:** Requires website access for many tasks
 
-## Final Prototype
+2. **Coursicle**
+   - **Likes:** Clean and intuitive design  
+   - **Dislikes:** Low popularity, functional issues
 
-![Final Prototype](./FinalPrototype.png)
+3. **Coursera**
+   - **Likes:** Excellent user interface with a professional look  
+   - **Dislikes:** Errors in video streaming
 
-## :film_projector: Demo Video
+4. **Udemy**
+   - **Likes:** Comprehensive features and clean, professional UI  
+   - **Dislikes:** Minimal functional concerns
 
-Watch the video [here](https://sheridanc-my.sharepoint.com/:v:/g/personal/bajajkun_shernet_sheridancollege_ca/EeqhjA-2OjVGkR4k73hcEmABiidmHJqfhp-6umGl8SmsNg?e=DUYZrP)
+5. **Canvas Student**
+   - **Likes:** Easy access to assignments, grades, and course materials  
+   - **Dislikes:** Limited significant negative feedback
 
-## :bulb: Future Planning
+---
 
-For the future we would like to include some of the following desirable
-functionalities. We couldn't find these functionalities in the top 5 apps
-that we reviewed, so we think adding them will make our product stronger and
-more competitive.
+## Latent Needs
+The app offers a **chat room feature**, helping students separate school-related discussions from unrelated conversations on apps like Discord or Slack. This feature makes it easier to connect with other students in the same courses.
 
-| Issue                                                     | Proposed Solution                                                                                                                                                               |
-| --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| How to meet new people safely during this time of covid   | Inside of the app, have guides and videos showing how to stay safe during covid, Show rick details about where you are going                                                    |
-| Friends/Family gets infected with COVID                   | Add friends to the app by using QR codes. App will alert if a friend starts reporting symptoms of being sick                                                                    |
-| Can't quickly test if I have COVID                        | Sell inside of the app a way to buy a mobile kit that is able to test the user. Include a guide on how to self test                                                             |
-| Don't know how to setup an appointment to test for COVID  | Include way inside app to automate appointment setup. User can just click when they will be available and we'll find them an appointment                                        |
-| Not being able to track who you have been in contact with | Inside of the app, let the user know what other users they have been close to. Share recent symptoms with app user if there is a possible that the user they passed is infected |
+---
 
-## Links
+## Finding Latent Needs
+Methods used:
+- **Naturalistic Observation:** Observing users perform tasks, taking detailed notes, and avoiding tunnel vision  
+- **Participant Observation:** Performing tasks myself to understand challenges and needs  
 
-- [Github Repository](https://github.com/AlecDivito/School-HCI-Assignment)
-- [Figma Public Link](https://www.figma.com/file/kxxj9MPMZY5q2lOYhf8dct/HelpQuester?node-id=0%3A1)
-- [Video Demo](https://drive.google.com/file/d/1BYEm3-6xoUA5CvusBwUzt2G0cXLwGHd8/view?usp=sharing)
+---
+
+## UI Requirements
+- Intuitive navigation catering to different age groups
+- Quick navigation for tech-savvy users
+- Medium to larger text sizes for accessibility
+- Clean layout with visual representations and proper spacing
+
+---
+
+## Competitive Analysis Matrix
+
+| Feature                  | Importance (Points) | Pulse | Coursicle | Canvas Student | Sheridan Slate | Discord | Sheridan Courses App |
+|--------------------------|---------------------|-------|-----------|----------------|----------------|---------|----------------------|
+| Course List              | 10                  | ✔️     | ✔️         | ✔️              | ✔️             | ❌      | ✔️                   |
+| Detailed Course Info     | 10                  | ✔️     | ✔️         | ✔️              | ✔️             | ❌      | ✔️                   |
+| Assignment Tracking      | 9                   | ✔️     | ❌         | ✔️              | ✔️             | ❌      | ✔️                   |
+| Push Notification        | 8                   | ✔️     | ✔️         | ✔️              | ❌             | ✔️      | ✔️                   |
+| Group Chat Feature       | 8                   | ❌     | ❌         | ❌              | ❌             | ✔️      | ✔️                   |
+| Visual Design            | 9                   | ✔️     | ✔️         | ✔️              | ❌             | ✔️      | ✔️                   |
+| Accessibility            | 9                   | ✔️     | ✔️         | ✔️              | ❌             | ✔️      | ✔️                   |
+
+---
+
+## Competitor UX/HCI Issues
+- **Pulse:** Limited customization for notifications  
+- **Coursicle:** Lack of accessibility features (no screen reader compatibility or high contrast mode)  
+- **Canvas Student:** No significant UX issues found  
+- **Sheridan Slate:** Old and clunky UI, poor mobile responsiveness  
+- **Discord:** Too many unnecessary chat features for a course app, limits on sharing in chats
+
+---
+
+
+## New Desirable Functionalities
+1. **AI-Powered Course Recommendations:** Suggests courses based on previous academic interests and progress  
+2. **Integrated Note-Taking Feature:** Allows students to take and organize notes within the app  
+3. **Offline Assignment Viewing:** Enables users to view assignments without an internet connection  
+4. **Calendar Integration:** Syncs course schedules and assignment deadlines with popular calendar apps  
+5. **Enhanced Chat Filters:** Smart filters for separating school-related chats from general conversations
