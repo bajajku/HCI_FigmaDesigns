@@ -1,5 +1,7 @@
 # Sheridan Courses App - Need Finding and Competitive Analysis
 
+## !!! The Raw document for this is present in Repository !!!
+
 ## Table of Contents
 - [Demo](#demo)
 - [End Users](#end-users)
