@@ -52,7 +52,7 @@ for **your** community.
 
 ## :film_projector: Demo Video
 
-Watch the video [here](https://drive.google.com/file/d/1BYEm3-6xoUA5CvusBwUzt2G0cXLwGHd8/view?usp=sharing)
+Watch the video [here](https://sheridanc-my.sharepoint.com/:v:/g/personal/bajajkun_shernet_sheridancollege_ca/EeqhjA-2OjVGkR4k73hcEmABiidmHJqfhp-6umGl8SmsNg?e=DUYZrP)
 
 ## :bulb: Future Planning
 
